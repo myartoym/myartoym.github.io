@@ -1,4 +1,4 @@
-<!doctype html>
+l<!doctype html>
  
 <html lang="en">
 <head>
@@ -10,6 +10,6 @@
 </head>
  
 <body>
-  <script src="js/scripts.js"></script>
+  hello
 </body>
 </html>
